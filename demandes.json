@@ -1,0 +1,29 @@
+{
+  "mis_a_jour": "2026-11-27T14:20:00+04:00",
+  "demandes": [
+    {"date": "2026-11-27", "source": "CLIENTS", "cp": "22750", "fonction": null},
+    {"date": "2026-11-27", "source": "PUBS", "cp": "Paris", "fonction": "Autre"},
+    {"date": "2026-11-26", "source": "CLIENTS", "cp": "21600", "fonction": null},
+    {"date": "2026-11-26", "source": "PUBS", "cp": "34300", "fonction": "Autre"},
+    {"date": "2026-11-26", "source": "CLIENTS", "cp": "83310", "fonction": null},
+    {"date": "2026-11-25", "source": "EMAILS", "cp": "67000 Strasbourg", "fonction": "Revendeur"},
+    {"date": "2026-11-25", "source": "EMAILS", "cp": "5546 Røyksund (Norvège)", "fonction": "Revendeur"},
+    {"date": "2026-11-25", "source": "CLIENTS", "cp": "69100", "fonction": null},
+    {"date": "2026-11-24", "source": "COMMANDES", "cp": "69570 Dardilly", "fonction": "Pharmacien titulaire"},
+    {"date": "2026-11-24", "source": "EMAILS", "cp": "74130 Bonneville", "fonction": "Pharmacien titulaire"},
+    {"date": "2026-11-24", "source": "COMMANDES", "cp": "94240 L'Haÿ-les-Roses", "fonction": "Pharmacien titulaire"},
+    {"date": "2026-11-24", "source": "COMMANDES", "cp": "59281 Rumilly-en-Cambrésis", "fonction": "Pharmacien titulaire"},
+    {"date": "2026-11-24", "source": "EMAILS", "cp": "34250 Palavas-les-Flots", "fonction": "Revendeur"},
+    {"date": "2026-11-24", "source": "EMAILS", "cp": null, "fonction": "Revendeur"},
+    {"date": "2026-11-24", "source": "EMAILS", "cp": "32500 Pauilhac", "fonction": "Revendeur"},
+    {"date": "2026-11-24", "source": "COMMANDES", "cp": "57600 Forbach", "fonction": "Pharmacien titulaire"},
+    {"date": "2026-11-24", "source": "EMAILS", "cp": "62400 Béthune", "fonction": "Pharmacien titulaire"},
+    {"date": "2026-11-24", "source": "EMAILS", "cp": null, "fonction": "Revendeur"},
+    {"date": "2026-11-24", "source": "COMMANDES", "cp": "75009 Paris", "fonction": "Pharmacien titulaire"},
+    {"date": "2026-11-24", "source": "EMAILS", "cp": null, "fonction": "Revendeur"},
+    {"date": "2026-11-24", "source": "EMAILS", "cp": "74100 Etrembière", "fonction": "Pharmacien titulaire"},
+    {"date": "2026-11-24", "source": "EMAILS", "cp": "83830 Trans-en-Provence", "fonction": "Revendeur"},
+    {"date": "2026-11-24", "source": "COMMANDES", "cp": "76370 Martin-Église", "fonction": "Pharmacien titulaire"},
+    {"date": "2026-11-24", "source": "EMAILS", "cp": "62000 Arras", "fonction": "Pharmacien titulaire"}
+  ]
+}
